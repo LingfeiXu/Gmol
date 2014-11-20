@@ -1,0 +1,1 @@
+Bug Fixed: Choose  database option failed to reset itself after a sequence search
