@@ -1,0 +1,5 @@
+Bug Fixed: Sequence search failed to reset the search input after a search error
+Bug Fixed: Search species input failed to reset after a select species search
+Bug Fixed: Search chromosome number style unrecognizable
+
+New function: Add sequence search function from UCSC Genome Browser
