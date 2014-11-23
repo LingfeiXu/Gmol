@@ -1,0 +1,1 @@
+New function: Add sequence Blast search function
