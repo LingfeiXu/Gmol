@@ -1,0 +1,9 @@
+new features:
+Calculation of
+Molecular Weight: g/mole
+GC content:%
+Melting Temperature: C
+Salt Adjusted Melting Temperature:.C
+Extinction Coefficient: L/(mole·cm)
+nmole/OD260: nmole
+ug/OD260: ug
