@@ -1,0 +1,2 @@
+new features:
+Allow the user to color the chromosome by chain using right click
