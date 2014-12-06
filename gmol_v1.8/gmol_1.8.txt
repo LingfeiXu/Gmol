@@ -1,2 +1,3 @@
 Fixed Bug:
-Fixed scale up and scale down to nucleosome core particle(ncp) level stuck bug. Add the NCP lable when at nucleosome level.
+Fixed scale down at the lowest or scale up at the highest level software stuck bug. 
+Add the NCP lable at nucleosome level.
