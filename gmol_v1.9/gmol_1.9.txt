@@ -1,6 +1,6 @@
 Bug fixed: stuck resulted from scaledown at fiber level
 new features:
-1. A lower level (below fiber level); 
+1. A lower level (Under fiber level); 
 The level only contains one double-helix string and it is the same whatever which unit you choose.
 This level is the nucleosome core particle(ncp) level, which each ncp consists of approximately 147 base pairs of DNA.
 
