@@ -1,0 +1,8 @@
+Bug fixed: stuck resulted from scaledown at fiber level
+new features:
+1. A lower level (below fiber level); 
+The level only contains one double-helix string and it is the same whatever which unit you choose.
+This level is the nucleosome core particle(ncp) level, which each ncp consists of approximately 147 base pairs of DNA.
+
+2. Now user can generate the exon and intron parts of a given DNA sequence based on the information given by UCSC knownGene.txt
+User can color and label the transcription start position and coding region parts on the sequence.

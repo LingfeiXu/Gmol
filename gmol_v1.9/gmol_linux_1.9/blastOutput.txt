@@ -1,0 +1,809 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTN 2.2.30+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: 8C40Z5VU014
+
+
+Database: Nucleotide collection (nt)
+           29,628,407 sequences; 85,165,531,704 total letters
+Query= 
+Length=51
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+gb|AC207582.3|  Homo sapiens FOSMID clone ABC12-48925600B17 fr...  93.3    1e-16
+gb|AC242254.3|  Homo sapiens FOSMID clone WI2-2178L20 from chr...  93.3    1e-16
+gb|AC242242.3|  Homo sapiens FOSMID clone WI2-1243C5 from chro...  93.3    1e-16
+ref|NR_033266.1|  Homo sapiens WAS protein family homolog 5 ps...  93.3    1e-16
+dbj|AK308635.1|  Homo sapiens cDNA, FLJ98676                       93.3    1e-16
+gb|BC053987.1|  Homo sapiens CXYorf1-related protein, mRNA (cD...  93.3    1e-16
+dbj|AK097269.1|  Homo sapiens cDNA FLJ39950 fis, clone SPLEN20...  93.3    1e-16
+gb|AC140725.3|  Homo sapiens chromosome 15, clone, complete se...  93.3    1e-16
+emb|AL928970.15|  Human DNA sequence from clone XXyac-2039 on ...  93.3    1e-16
+emb|AL627309.15|  Human DNA sequence from clone RP11-34P13 on ...  93.3    1e-16
+gb|AC008993.3|  Homo sapiens chromosome 19 clone LLNL-R_222A1,...  93.3    1e-16
+dbj|AP006221.1|  Homo sapiens genomic DNA, chromosome Un, clon...  93.3    1e-16
+emb|FO538757.3|  Human DNA sequence from clone ABC7-43046700E7...  91.5    5e-16
+ref|XM_004024413.1|  PREDICTED: Gorilla gorilla gorilla putati...  91.5    5e-16
+gb|AC245097.2|  Homo sapiens BAC clone CH17-405J20 from chromo...  91.5    5e-16
+gb|AC242989.2|  Homo sapiens FOSMID clone ABC10-44089300D10 fr...  91.5    5e-16
+gb|AC215219.3|  Homo sapiens FOSMID clone ABC7-42389800N19 fro...  91.5    5e-16
+gb|BC041177.1|  Homo sapiens CXYorf1-related protein, mRNA (cD...  91.5    5e-16
+gb|BC063893.1|  Homo sapiens cDNA clone IMAGE:30368489, partia...  91.5    5e-16
+gb|AE006462.1|  Homo sapiens 16p13.3 sequence section 1 of 8       91.5    5e-16
+gb|AY217347.1|  Homo sapiens unknown mRNA                          91.5    5e-16
+emb|AJ271736.1|  Homo sapiens Xq pseudoautosomal region; segme...  91.5    5e-16
+emb|AL078621.19|  Human DNA sequence from clone RP11-395L14 on...  91.5    5e-16
+emb|Z84812.1|  Human DNA sequence from phage pTEL from a conti...  91.5    5e-16
+gb|AC241375.3|  Gorilla gorilla BAC clone CH255-205A9 from chr...  84.2    7e-14
+ref|XM_005575323.1|  PREDICTED: Macaca fascicularis WAS protei...  78.8    3e-12
+gb|AC125680.4|  Rattus norvegicus X BAC CH230-10I21 (Children'...  48.2    0.005
+gb|AC156631.2|  Mus musculus BAC clone RP24-501O22 from chromo...  46.4    0.018
+gb|AC133490.32|  Rattus norvegicus clone rp32-162c1, complete ...  44.6    0.061
+gb|AC095402.7|  Rattus norvegicus 2 BAC CH230-7A22 (Children's...  44.6    0.061
+emb|LN592702.1|  Cyprinus carpio genome assembly common carp g...  42.8    0.21 
+emb|LN590690.1|  Cyprinus carpio genome assembly common carp g...  42.8    0.21 
+gb|AC132998.5|  Rattus norvegicus BAC CH230-6L10 () complete s...  41.0    0.75 
+emb|LM386182.1|  Hymenolepis diminuta genome assembly H_diminu...  39.2    2.6  
+gb|AC129146.3|  Rattus norvegicus 2 BAC CH230-266D19 (Children...  39.2    2.6  
+emb|AL445199.37|  Human DNA sequence from clone RP13-439H18 on...  39.2    2.6  
+gb|AC023787.8|  Homo sapiens BAC clone RP11-546M8 from 2, comp...  39.2    2.6  
+emb|LN593063.1|  Cyprinus carpio genome assembly common carp g...  37.4    9.1  
+emb|LN590837.1|  Cyprinus carpio genome assembly common carp g...  37.4    9.1  
+emb|HG670306.1|  Triticum aestivum chromosome 3B, genomic scaf...  37.4    9.1  
+ref|XM_008056162.1|  PREDICTED: Tarsius syrichta immunoglobuli...  37.4    9.1  
+ref|XM_007531343.1|  PREDICTED: Erinaceus europaeus proline ri...  37.4    9.1  
+ref|XM_006976119.1|  PREDICTED: Peromyscus maniculatus bairdii...  37.4    9.1  
+ref|XM_005991738.1|  PREDICTED: Latimeria chalumnae mitogen-ac...  37.4    9.1  
+ref|XM_004381646.1|  PREDICTED: Trichechus manatus latirostris...  37.4    9.1  
+gb|AC241222.2|  Rattus norvegicus Y Chr BAC RNAEX-347B11 (Ampl...  37.4    9.1  
+gb|AC196740.4|  Rhesus Macaque BAC CH250-394B21 () complete se...  37.4    9.1  
+gb|AC139751.2|  Mus musculus BAC clone RP24-403E24 from chromo...  37.4    9.1  
+gb|AC102101.7|  Mus musculus chromosome 15, clone RP23-74N15, ...  37.4    9.1  
+gb|AC087113.11|  Mus Musculus Strain C57BL6/J Chromosome 15 BA...  37.4    9.1  
+emb|CR385848.1|  Gallus gallus finished cDNA, clone ChEST207p2     37.4    9.1  
+gb|AC078920.17|  Homo sapiens 12 BAC RP11-121G22 (Roswell Park...  37.4    9.1  
+emb|CT025659.7|  Mouse DNA sequence from clone RP24-86F23 on c...  37.4    9.1  
+
+ALIGNMENTS
+>gb|AC207582.3| Homo sapiens FOSMID clone ABC12-48925600B17 from chromosome 15, 
+complete sequence
+Length=37050
+
+ Score = 93.3 bits (102),  Expect = 1e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Plus
+
+Query  1     AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+             |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9791  AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  9841
+
+
+ Score = 93.3 bits (102),  Expect = 1e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Plus
+
+Query  1      AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+              |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  20358  AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  20408
+
+
+>gb|AC242254.3| Homo sapiens FOSMID clone WI2-2178L20 from chromosome 9, complete 
+sequence
+Length=26824
+
+ Score = 93.3 bits (102),  Expect = 1e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Minus
+
+Query  1      AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+              |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  17279  AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  17229
+
+
+>gb|AC242242.3| Homo sapiens FOSMID clone WI2-1243C5 from chromosome 1, complete 
+sequence
+Length=22908
+
+ Score = 93.3 bits (102),  Expect = 1e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Minus
+
+Query  1      AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+              |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  13440  AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  13390
+
+
+>ref|NR_033266.1| Homo sapiens WAS protein family homolog 5 pseudogene (WASH5P), 
+non-coding RNA
+Length=1137
+
+ Score = 93.3 bits (102),  Expect = 1e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Minus
+
+Query  1    AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+            |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  880  AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  830
+
+
+>dbj|AK308635.1| Homo sapiens cDNA, FLJ98676
+Length=1147
+
+ Score = 93.3 bits (102),  Expect = 1e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Minus
+
+Query  1    AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+            |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  890  AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  840
+
+
+>gb|BC053987.1| Homo sapiens CXYorf1-related protein, mRNA (cDNA clone IMAGE:5814725), 
+partial cds
+Length=2406
+
+ Score = 93.3 bits (102),  Expect = 1e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Minus
+
+Query  1    AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+            |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  164  AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  114
+
+
+>dbj|AK097269.1| Homo sapiens cDNA FLJ39950 fis, clone SPLEN2024489
+Length=1779
+
+ Score = 93.3 bits (102),  Expect = 1e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Minus
+
+Query  1    AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+            |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  331  AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  281
+
+
+>gb|AC140725.3| Homo sapiens chromosome 15, clone, complete sequence
+Length=181240
+
+ Score = 93.3 bits (102),  Expect = 1e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Plus
+
+Query  1     AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+             |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9829  AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  9879
+
+
+>emb|AL928970.15| Human DNA sequence from clone XXyac-2039 on chromosome 9 Contains 
+a pseudogene similar to part of DEAD/H (Asp-Glu-Ala-Asp/His) 
+box polypeptide 11(CHL1-like helicase homolog, S. cerevisiae) 
+(CHL1, KRG2, CHLR1, MGC9335) (DDX11), a novel pseudogene, 
+a novel gene and two CpG islands, complete sequence
+Length=23993
+
+ Score = 93.3 bits (102),  Expect = 1e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Plus
+
+Query  1     AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+             |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9713  AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  9763
+
+
+>emb|AL627309.15| Human DNA sequence from clone RP11-34P13 on chromosome 1, complete 
+sequence
+Length=166904
+
+ Score = 93.3 bits (102),  Expect = 1e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Plus
+
+Query  1     AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+             |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9087  AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  9137
+
+
+>gb|AC008993.3| Homo sapiens chromosome 19 clone LLNL-R_222A1, complete sequence
+Length=38561
+
+ Score = 93.3 bits (102),  Expect = 1e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Minus
+
+Query  1      AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+              |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37354  AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  37304
+
+
+>dbj|AP006221.1| Homo sapiens genomic DNA, chromosome Un, clone:CMC-190A2, telomere 
+region, complete sequence
+Length=36731
+
+ Score = 93.3 bits (102),  Expect = 1e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Minus
+
+Query  1      AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+              |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27287  AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  27237
+
+
+>emb|FO538757.3| Human DNA sequence from clone ABC7-43046700E7 on chromosome 1, 
+complete sequence
+Length=32249
+
+ Score = 91.5 bits (100),  Expect = 5e-16
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Plus
+
+Query  2      GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+              ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  14707  GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  14756
+
+
+>ref|XM_004024413.1| PREDICTED: Gorilla gorilla gorilla putative WAS protein family 
+homolog 4-like (LOC101148338), mRNA
+Length=2872
+
+ Score = 91.5 bits (100),  Expect = 5e-16
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  2    GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+            ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  632  GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  583
+
+
+>gb|AC245097.2| Homo sapiens BAC clone CH17-405J20 from chromosome 2, complete 
+sequence
+Length=234428
+
+ Score = 91.5 bits (100),  Expect = 5e-16
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  2       GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  132283  GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  132234
+
+
+>gb|AC242989.2| Homo sapiens FOSMID clone ABC10-44089300D10 from chromosome 15, 
+complete sequence
+Length=33920
+
+ Score = 91.5 bits (100),  Expect = 5e-16
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Plus
+
+Query  2     GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+             ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9745  GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  9794
+
+
+>gb|AC215219.3| Homo sapiens FOSMID clone ABC7-42389800N19 from chromosome 12, 
+complete sequence
+Length=35739
+
+ Score = 91.5 bits (100),  Expect = 5e-16
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  2      GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+              ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  26104  GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  26055
+
+
+>gb|BC041177.1| Homo sapiens CXYorf1-related protein, mRNA (cDNA clone IMAGE:6042646), 
+partial cds
+Length=2401
+
+ Score = 91.5 bits (100),  Expect = 5e-16
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  2    GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+            ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  116  GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  67
+
+
+>gb|BC063893.1| Homo sapiens cDNA clone IMAGE:30368489, partial cds
+Length=2580
+
+ Score = 91.5 bits (100),  Expect = 5e-16
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  2    GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+            ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  120  GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  71
+
+
+>gb|AE006462.1| Homo sapiens 16p13.3 sequence section 1 of 8
+Length=258002
+
+ Score = 91.5 bits (100),  Expect = 5e-16
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Plus
+
+Query  2     GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+             ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9290  GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  9339
+
+
+>gb|AY217347.1| Homo sapiens unknown mRNA
+Length=2447
+
+ Score = 91.5 bits (100),  Expect = 5e-16
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  2    GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+            ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  161  GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  112
+
+
+>emb|AJ271736.1| Homo sapiens Xq pseudoautosomal region; segment 2/2
+Length=158661
+
+ Score = 91.5 bits (100),  Expect = 5e-16
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  2       GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  148226  GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  148177
+
+
+>emb|AL078621.19| Human DNA sequence from clone RP11-395L14 on chromosome 2, complete 
+sequence
+Length=176734
+
+ Score = 91.5 bits (100),  Expect = 5e-16
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  2      GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+              ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  99459  GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  99410
+
+
+>emb|Z84812.1| Human DNA sequence from phage pTEL from a contig from the tip 
+of the short arm of chromosome 16, spanning 2Mb of 16p13.3 
+Contains ESTs
+Length=11080
+
+ Score = 91.5 bits (100),  Expect = 5e-16
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Plus
+
+Query  2     GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+             ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9290  GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  9339
+
+
+>gb|AC241375.3| Gorilla gorilla BAC clone CH255-205A9 from chromosome 10, complete 
+sequence
+Length=229890
+
+ Score = 84.2 bits (92),  Expect = 7e-14
+ Identities = 50/51 (98%), Gaps = 1/51 (2%)
+ Strand=Plus/Minus
+
+Query  2      GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAG-GGGGCTCAGGCAT  51
+              ||||||||||||||||||||||||||||||||||||| |||||||||||||
+Sbjct  46633  GGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGGCTCAGGCAT  46583
+
+
+>ref|XM_005575323.1| PREDICTED: Macaca fascicularis WAS protein family homolog 6-like 
+(LOC102144060), mRNA
+Length=2897
+
+ Score = 78.8 bits (86),  Expect = 3e-12
+ Identities = 46/48 (96%), Gaps = 0/48 (0%)
+ Strand=Plus/Minus
+
+Query  4    GTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+            |||||||||||||||||||||||||| |||||||||| ||||||||||
+Sbjct  684  GTCTGCCCTGATTACTCCTGGCTCCTCGTGTGCAGGGCGCTCAGGCAT  637
+
+
+>gb|AC125680.4| Rattus norvegicus X BAC CH230-10I21 (Children's Hospital Oakland 
+Research Institute) complete sequence
+Length=139727
+
+ Score = 48.2 bits (52),  Expect = 0.005
+ Identities = 40/48 (83%), Gaps = 1/48 (2%)
+ Strand=Plus/Plus
+
+Query  2       GGGTCTG-CCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGG  48
+               || |||| |||||| | ||||| | ||| |||||||||||||| ||||
+Sbjct  120349  GGTTCTGACCCTGACTGCTCCTAGGTCCCTGTGTGCAGGGGGCACAGG  120396
+
+
+>gb|AC156631.2| Mus musculus BAC clone RP24-501O22 from chromosome 9, complete 
+sequence
+Length=165660
+
+ Score = 46.4 bits (50),  Expect = 0.018
+ Identities = 34/40 (85%), Gaps = 0/40 (0%)
+ Strand=Plus/Minus
+
+Query  11     CTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAGGCA  50
+              ||| ||||||||||||||||| | |||| || ||||| ||
+Sbjct  66992  CTGTTTACTCCTGGCTCCTTGAGAGCAGAGGACTCAGACA  66953
+
+
+>gb|AC133490.32| Rattus norvegicus clone rp32-162c1, complete sequence
+Length=97152
+
+ Score = 44.6 bits (48),  Expect = 0.061
+ Identities = 35/42 (83%), Gaps = 0/42 (0%)
+ Strand=Plus/Plus
+
+Query  6     CTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAG  47
+             ||||||  | | ||| ||| |||||||||||||||||| |||
+Sbjct  4521  CTGCCCCTACTTCTCGTGGGTCCTTGTGTGCAGGGGGCCCAG  4562
+
+
+>gb|AC095402.7| Rattus norvegicus 2 BAC CH230-7A22 (Children's Hospital Oakland 
+Research Institute) complete sequence
+Length=224026
+
+ Score = 44.6 bits (48),  Expect = 0.061
+ Identities = 38/47 (81%), Gaps = 0/47 (0%)
+ Strand=Plus/Plus
+
+Query  1      AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAG  47
+              || |||||| |  | | ||||||| ||| |||||||||||||| |||
+Sbjct  73140  AGTGTCTGCTCCTACTTCTCCTGGATCCCTGTGTGCAGGGGGCCCAG  73186
+
+
+>emb|LN592702.1| Cyprinus carpio genome assembly common carp genome ,scaffold 
+000003971
+Length=48851
+
+ Score = 42.8 bits (46),  Expect = 0.21
+ Identities = 28/31 (90%), Gaps = 0/31 (0%)
+ Strand=Plus/Minus
+
+Query  21    CTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+             |||||||| ||| ||||| ||||||||||||
+Sbjct  1301  CTGGCTCCATGTCTGCAGTGGGCTCAGGCAT  1271
+
+
+>emb|LN590690.1| Cyprinus carpio genome assembly common carp genome ,scaffold 
+LG31
+Length=24603915
+
+ Score = 42.8 bits (46),  Expect = 0.21
+ Identities = 28/31 (90%), Gaps = 0/31 (0%)
+ Strand=Plus/Minus
+
+Query  21        CTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+                 |||||||| ||| ||||| ||||||||||||
+Sbjct  14410083  CTGGCTCCATGTCTGCAGTGGGCTCAGGCAT  14410053
+
+
+>gb|AC132998.5| Rattus norvegicus BAC CH230-6L10 () complete sequence
+Length=215654
+
+ Score = 41.0 bits (44),  Expect = 0.75
+ Identities = 31/37 (84%), Gaps = 0/37 (0%)
+ Strand=Plus/Plus
+
+Query  10      CCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCA  46
+               ||||||| ||||| | |||||||   |||||||||||
+Sbjct  156802  CCTGATTGCTCCTAGATCCTTGTACCCAGGGGGCTCA  156838
+
+
+>emb|LM386182.1| Hymenolepis diminuta genome assembly H_diminuta_Denmark ,scaffold 
+HDID_contig0001776
+Length=14279
+
+ Score = 39.2 bits (42),  Expect = 2.6
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  22    TGGCTCCTTGTGTGCAGGGGGCTCAG  47
+             |||||| ||||||||||| |||||||
+Sbjct  5706  TGGCTCTTTGTGTGCAGGTGGCTCAG  5681
+
+
+>gb|AC129146.3| Rattus norvegicus 2 BAC CH230-266D19 (Children's Hospital Oakland 
+Research Institute) complete sequence
+Length=180291
+
+ Score = 39.2 bits (42),  Expect = 2.6
+ Identities = 38/48 (79%), Gaps = 1/48 (2%)
+ Strand=Plus/Plus
+
+Query  1       AGGGTC-TGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGGGCTCAG  47
+               |||||| | |||  ||| ||||| | ||| |||||||||||| | |||
+Sbjct  119897  AGGGTCCTTCCCCTATTTCTCCTAGGTCCCTGTGTGCAGGGGTCACAG  119944
+
+
+>emb|AL445199.37| Human DNA sequence from clone RP13-439H18 on chromosome 10, complete 
+sequence
+Length=212199
+
+ Score = 39.2 bits (42),  Expect = 2.6
+ Identities = 26/29 (90%), Gaps = 0/29 (0%)
+ Strand=Plus/Minus
+
+Query  20      CCTGGCTCCTTGTGTGCAGGGGGCTCAGG  48
+               || |||||| ||||||||||||||| |||
+Sbjct  180406  CCAGGCTCCATGTGTGCAGGGGGCTTAGG  180378
+
+
+>gb|AC023787.8| Homo sapiens BAC clone RP11-546M8 from 2, complete sequence
+Length=144620
+
+ Score = 39.2 bits (42),  Expect = 2.6
+ Identities = 36/43 (84%), Gaps = 2/43 (5%)
+ Strand=Plus/Plus
+
+Query  8      GCCCTGATTACTCCTGGCTCCTTGTGTGCAGGG-GGCT-CAGG  48
+              |||||||||||||||| || | || | |||||| |||| ||||
+Sbjct  61248  GCCCTGATTACTCCTGTCTTCCTGAGCGCAGGGAGGCTGCAGG  61290
+
+
+>emb|LN593063.1| Cyprinus carpio genome assembly common carp genome ,scaffold 
+000001464
+Length=347492
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 25/28 (89%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  23     GGCTCCTTGTGTGCAGGGGGCTCAGGCA  50
+              |||||  ||||||||| |||||||||||
+Sbjct  23052  GGCTCTCTGTGTGCAGTGGGCTCAGGCA  23079
+
+
+>emb|LN590837.1| Cyprinus carpio genome assembly common carp genome ,scaffold 
+000000441
+Length=986117
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 25/28 (89%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  23      GGCTCCTTGTGTGCAGGGGGCTCAGGCA  50
+               |||||  ||||||||| |||||||||||
+Sbjct  823420  GGCTCTCTGTGTGCAGTGGGCTCAGGCA  823447
+
+
+>emb|HG670306.1| Triticum aestivum chromosome 3B, genomic scaffold, cultivar Chinese 
+Spring
+Length=774434471
+
+ Features flanking this part of subject sequence:
+   26555 bp at 5' side: unnamed protein product
+   41291 bp at 3' side: unnamed protein product
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 28/32 (88%), Gaps = 1/32 (3%)
+ Strand=Plus/Plus
+
+Query  2          GGGTCTGCCCTGATTACTCCTGGC-TCCTTGT  32
+                  |||||| || ||| |||||||||| |||||||
+Sbjct  511042933  GGGTCTCCCATGAATACTCCTGGCTTCCTTGT  511042964
+
+
+>ref|XM_008056162.1| PREDICTED: Tarsius syrichta immunoglobulin superfamily, DCC subclass, 
+member 4 (IGDCC4), partial mRNA
+Length=2430
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 25/28 (89%), Gaps = 0/28 (0%)
+ Strand=Plus/Minus
+
+Query  21    CTGGCTCCTTGTGTGCAGGGGGCTCAGG  48
+             ||||||||||| | ||||||||||| ||
+Sbjct  2381  CTGGCTCCTTGAGGGCAGGGGGCTCTGG  2354
+
+
+>ref|XM_007531343.1| PREDICTED: Erinaceus europaeus proline rich 12 (PRR12), mRNA
+Length=5589
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 26/30 (87%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  22    TGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+             ||||| || | | |||||||||||||||||
+Sbjct  4683  TGGCTTCTCGGGAGCAGGGGGCTCAGGCAT  4654
+
+
+>ref|XM_006976119.1| PREDICTED: Peromyscus maniculatus bairdii PDZ domain containing 
+2 (Pdzd2), mRNA
+Length=3015
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Minus
+
+Query  20    CCTGGCTCCTTGTGTGCAGGGGG  42
+             |||||||||||||| ||||||||
+Sbjct  2462  CCTGGCTCCTTGTGAGCAGGGGG  2440
+
+
+>ref|XM_005991738.1| PREDICTED: Latimeria chalumnae mitogen-activated protein kinase-activated 
+protein kinase 3 (MAPKAPK3), mRNA
+Length=4076
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 23/25 (92%), Gaps = 0/25 (0%)
+ Strand=Plus/Plus
+
+Query  26    TCCTTGTGTGCAGGGGGCTCAGGCA  50
+             ||| ||||| |||||||||||||||
+Sbjct  3828  TCCCTGTGTTCAGGGGGCTCAGGCA  3852
+
+
+>ref|XM_004381646.1| PREDICTED: Trichechus manatus latirostris uncharacterized LOC101349814 
+(LOC101349814), mRNA
+Length=6927
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 26/30 (87%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  22    TGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+             ||||| || | ||||||||||||| |||||
+Sbjct  5163  TGGCTTCTCGGGTGCAGGGGGCTCGGGCAT  5134
+
+
+>gb|AC241222.2| Rattus norvegicus Y Chr BAC RNAEX-347B11 (Amplicon Express Rat 
+SHR-Akr BAC library) complete sequence
+Length=124946
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 33/41 (80%), Gaps = 3/41 (7%)
+ Strand=Plus/Minus
+
+Query  1      AGGGTCTGCCCTGATTACTCCTGGCTCCTTGTGTGCAGGGG  41
+              |||| ||||||    |||| |||| ||| ||||||||||||
+Sbjct  74206  AGGGCCTGCCCC---TACTTCTGGGTCCCTGTGTGCAGGGG  74169
+
+
+>gb|AC196740.4| Rhesus Macaque BAC CH250-394B21 () complete sequence
+Length=197386
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 23/25 (92%), Gaps = 0/25 (0%)
+ Strand=Plus/Plus
+
+Query  6       CTGCCCTGATTACTCCTGGCTCCTT  30
+               || ||||||| ||||||||||||||
+Sbjct  176118  CTCCCCTGATGACTCCTGGCTCCTT  176142
+
+
+>gb|AC139751.2| Mus musculus BAC clone RP24-403E24 from chromosome 17, complete 
+sequence
+Length=183224
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Minus
+
+Query  25     CTCCTTGTGTGCAGGGGGCTCAG  47
+              |||||||||||||| ||||||||
+Sbjct  29961  CTCCTTGTGTGCAGAGGGCTCAG  29939
+
+
+>gb|AC102101.7| Mus musculus chromosome 15, clone RP23-74N15, complete sequence
+Length=191261
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 28/32 (88%), Gaps = 1/32 (3%)
+ Strand=Plus/Plus
+
+Query  20      CCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+               ||| | ||||| ||||||||||||| ||||||
+Sbjct  114990  CCTTGTTCCTT-TGTGCAGGGGGCTGAGGCAT  115020
+
+
+>gb|AC087113.11| Mus Musculus Strain C57BL6/J Chromosome 15 BAC, RP23-99A15, Complete 
+Sequence, complete sequence
+Length=223882
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 28/32 (88%), Gaps = 1/32 (3%)
+ Strand=Plus/Plus
+
+Query  20     CCTGGCTCCTTGTGTGCAGGGGGCTCAGGCAT  51
+              ||| | ||||| ||||||||||||| ||||||
+Sbjct  62831  CCTTGTTCCTT-TGTGCAGGGGGCTGAGGCAT  62861
+
+
+>emb|CR385848.1| Gallus gallus finished cDNA, clone ChEST207p2
+Length=771
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Plus
+
+Query  13   GATTACTCCTGGCTCCTTGTGTG  35
+            ||| |||||||||||||||||||
+Sbjct  362  GATGACTCCTGGCTCCTTGTGTG  384
+
+
+>gb|AC078920.17| Homo sapiens 12 BAC RP11-121G22 (Roswell Park Cancer Institute 
+Human BAC Library) complete sequence
+Length=156323
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 25/28 (89%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  10     CCTGATTACTCCTGGCTCCTTGTGTGCA  37
+              ||||||||||| |  |||||||||||||
+Sbjct  28260  CCTGATTACTCTTACCTCCTTGTGTGCA  28287
+
+
+>emb|CT025659.7| Mouse DNA sequence from clone RP24-86F23 on chromosome 17, complete 
+sequence
+Length=183855
+
+ Score = 37.4 bits (40),  Expect = 9.1
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Plus
+
+Query  25     CTCCTTGTGTGCAGGGGGCTCAG  47
+              |||||||||||||| ||||||||
+Sbjct  24444  CTCCTTGTGTGCAGAGGGCTCAG  24466
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Dec 6, 2014  1:43 PM
+  Number of letters in database: 85,165,531,704
+  Number of sequences in database:  29,628,407
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 29628407
+Number of Hits to DB: 2807225
+Number of extensions: 2215
+Number of successful extensions: 2215
+Number of sequences better than 10: 3
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 2215
+Number of HSP's successfully gapped: 3
+Length of query: 51
+Length of database: 85165531704
+Length adjustment: 32
+Effective length of query: 19
+Effective length of database: 84217422680
+Effective search space: 1600131030920
+Effective search space used: 1600131030920
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+S2: 40 (37.4 bits)
+
+
+
+
