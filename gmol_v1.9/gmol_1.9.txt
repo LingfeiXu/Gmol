@@ -1,4 +1,6 @@
-Bug fixed: stuck resulted from scaledown at fiber level
+Bug fixed: 
+Stuck resulted from scaledown at fiber level
+Stuck resulted from long sequence input
 new features:
 1. A lower level (Under fiber level); 
 The level only contains one double-helix string and it is the same whatever which unit you choose.
