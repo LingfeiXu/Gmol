@@ -1,0 +1,4 @@
+new features:
+Change the name besides the Icon at the top of software.
+Enable NCBI BLAST to run in the background while user can do something else.
+Add right click button to stop the execution of BLAST.
