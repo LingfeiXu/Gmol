@@ -1,3 +1,5 @@
+Fixed the bugs with the 1.8~2.0 added new features
+Make the UI more user friendly
 new features:
 Change the name besides the Icon at the top of software.
 Enable NCBI BLAST to run in the background while user can do something else.
