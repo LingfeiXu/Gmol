@@ -9469,34 +9469,39 @@ public class ScriptEvaluator {
 						
 						if (cdsStart != cdsEnd) { // having 3'UTR or 5'UTR
 							if (x[2].equals("+")) {
-								if (txStart != cdsStart)
+								if (txStart != cdsStart){
 									showString("Coding region start:  "+ x[3] + "\t" + (cdsStart - 1) + "\t" + "5'UTR");
-								if (txEnd != cdsEnd)
-									showString("Coding region end:  " + (cdsEnd + 1) + "\t" + x[4] + "\t" + "3'UTR");
-								getScript = "sselect "+ genomeChr + ","+ x[3]+ "," + x[3] + ";" + "label 5'UTR" + ";" + "color label yellow" + ";";
-								viewer.script(getScript);
-																
-								getScript = "sselect "+ genomeChr + "," + (cdsEnd + 1) + "," + (cdsEnd + 1) + ";" + "label 3'UTR" + ";" + "color label yellow" + ";";
-								viewer.script(getScript);
+									getScript = "sselect "+ genomeChr + ","+ x[3]+ "," + x[3] + ";" + "label 5'UTR" + ";" + "color label yellow" + ";";
+									viewer.script(getScript);
+									getScript = "sselect "+ genomeChr + "," + x[3] + "," + (cdsStart - 1) + ";" + "color yellow" + ";";
+									viewer.script(getScript);
+								}
 								
+								if (txEnd != cdsEnd){
+									showString("Coding region end:  " + (cdsEnd + 1) + "\t" + x[4] + "\t" + "3'UTR");						
+									getScript = "sselect "+ genomeChr + "," + (cdsEnd + 1) + "," + (cdsEnd + 1) + ";" + "label 3'UTR" + ";" + "color label yellow" + ";";
+									viewer.script(getScript);
+									getScript = "sselect "+ genomeChr + "," + (cdsEnd + 1) + "," + x[4] + ";" + "color yellow" + ";";
+									viewer.script(getScript);
+								}
+												
 
 							} else {
-								if (txStart != cdsStart)
+								if (txStart != cdsStart){
 									showString("Coding region start:  " + x[3] + "\t" + (cdsStart - 1) + "\t" + "3'UTR");
-								if (txEnd != cdsEnd)
+									getScript = "sselect "+ genomeChr + "," + x[3] + "," + x[3] + ";" + "label 3'UTR" + ";" + "color label yellow" + ";";
+									viewer.script(getScript);
+									getScript = "sselect "+ genomeChr + "," + x[3] + "," + (cdsStart - 1) + ";" + "color yellow" + ";";
+									viewer.script(getScript);
+								}
+								if (txEnd != cdsEnd){
 									showString("Coding region end:  " + (cdsEnd + 1) + "\t" +  x[4] + "\t" + "5'UTR");
-								getScript = "sselect "+ genomeChr + "," + x[3] + "," + x[3] + ";" + "label 3'UTR" + ";" + "color label yellow" + ";";
-								viewer.script(getScript);
-																
-								getScript = "sselect " + genomeChr + "," + (cdsEnd + 1) + "," + (cdsEnd + 1) + ";" + "label 5'UTR" + ";" + "color label yellow" + ";";
-								viewer.script(getScript);
-								
+									getScript = "sselect " + genomeChr + "," + (cdsEnd + 1) + "," + (cdsEnd + 1) + ";" + "label 5'UTR" + ";" + "color label yellow" + ";";
+									viewer.script(getScript);
+									getScript = "sselect "+ genomeChr + "," + (cdsEnd + 1) + "," + x[4] + ";" + "color yellow" + ";";
+									viewer.script(getScript);
+								}		
 							}
-							getScript = "sselect "+ genomeChr + "," + x[3] + "," + (cdsStart - 1) + ";" + "color yellow" + ";";
-							viewer.script(getScript);
-							
-							getScript = "sselect "+ genomeChr + "," + (cdsEnd + 1) + "," + x[4] + ";" + "color yellow" + ";";
-							viewer.script(getScript);
 						}
 					}
 				}
