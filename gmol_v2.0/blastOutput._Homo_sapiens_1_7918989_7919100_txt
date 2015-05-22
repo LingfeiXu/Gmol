@@ -1,0 +1,769 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTN 2.2.31+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: H3DT3WRM016
+
+
+Database: Nucleotide collection (nt)
+           28,990,570 sequences; 88,734,905,902 total letters
+Query= 
+Length=112
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+emb|Z98884.11|  Human DNA sequence from clone RP3-467L1 on chr...  203     4e-49
+ref|XM_006719770.2|  PREDICTED: Homo sapiens APC membrane recr...  48.2    0.022
+ref|XM_005266280.2|  PREDICTED: Homo sapiens APC membrane recr...  48.2    0.022
+ref|XM_005266279.2|  PREDICTED: Homo sapiens APC membrane recr...  48.2    0.022
+ref|XM_009426754.1|  PREDICTED: Pan troglodytes APC membrane r...  48.2    0.022
+ref|XM_001154833.3|  PREDICTED: Pan troglodytes APC membrane r...  48.2    0.022
+ref|XM_009426753.1|  PREDICTED: Pan troglodytes APC membrane r...  48.2    0.022
+ref|XM_009426752.1|  PREDICTED: Pan troglodytes APC membrane r...  48.2    0.022
+ref|NM_199138.2|  Homo sapiens APC membrane recruitment protei...  48.2    0.022
+ref|NM_152704.3|  Homo sapiens APC membrane recruitment protei...  48.2    0.022
+ref|XM_004054275.1|  PREDICTED: Gorilla gorilla gorilla family...  48.2    0.022
+dbj|AK098054.1|  Homo sapiens cDNA FLJ40735 fis, clone TKIDN20...  48.2    0.022
+dbj|AK094378.1|  Homo sapiens cDNA FLJ37059 fis, clone BRACE20...  48.2    0.022
+gb|BC045677.1|  Homo sapiens cDNA clone IMAGE:5299441              48.2    0.022
+emb|AL590099.9|  Human DNA sequence from clone RP11-458I4 on c...  48.2    0.022
+emb|AL359757.21|  Human DNA sequence from clone RP11-165I9 on ...  48.2    0.022
+emb|AL832586.1|  Homo sapiens mRNA; cDNA DKFZp451I0216 (from c...  48.2    0.022
+ref|XM_010246266.1|  PREDICTED: Nelumbo nucifera acid phosphat...  44.6    0.26 
+ref|XM_010246265.1|  PREDICTED: Nelumbo nucifera acid phosphat...  44.6    0.26 
+ref|XM_010246264.1|  PREDICTED: Nelumbo nucifera acid phosphat...  44.6    0.26 
+ref|XM_010246263.1|  PREDICTED: Nelumbo nucifera acid phosphat...  44.6    0.26 
+ref|XM_001450064.1|  Paramecium tetraurelia hypothetical prote...  44.6    0.26 
+ref|XM_009591153.1|  PREDICTED: Nicotiana tomentosiformis F-bo...  42.8    0.92 
+ref|XM_009618589.1|  PREDICTED: Nicotiana tomentosiformis prob...  42.8    0.92 
+emb|LL573942.1|  Diphyllobothrium latum genome assembly D_latu...  42.8    0.92 
+gb|HM015285.1|  Eucalyptus globulus 4-coumarate 3-hydroxylase ...  42.8    0.92 
+gb|AC129886.3|  Atelerix albiventris clone LB4-234A16, complet...  42.8    0.92 
+emb|LN713259.1|  Cucumis melo genomic chromosome, chr_5            41.0    3.2  
+emb|LN681842.1|  Cucumis melo genomic scaffold, anchoredscaffo...  41.0    3.2  
+ref|XM_010654215.1|  PREDICTED: Vitis vinifera uncharacterized...  41.0    3.2  
+ref|XM_010686706.1|  PREDICTED: Beta vulgaris subsp. vulgaris ...  41.0    3.2  
+emb|LM336276.1|  Strongylus vulgaris genome assembly S_vulgari...  41.0    3.2  
+emb|LN590712.1|  Cyprinus carpio genome assembly common carp g...  41.0    3.2  
+ref|XM_006430689.1|  Citrus clementina hypothetical protein (C...  41.0    3.2  
+ref|XM_002303004.2|  Populus trichocarpa hypothetical protein ...  41.0    3.2  
+ref|XM_004514226.1|  PREDICTED: Cicer arietinum uncharacterize...  41.0    3.2  
+ref|XM_004514225.1|  PREDICTED: Cicer arietinum uncharacterize...  41.0    3.2  
+ref|XM_004514224.1|  PREDICTED: Cicer arietinum uncharacterize...  41.0    3.2  
+ref|XM_003622864.1|  Medicago truncatula hypothetical protein ...  41.0    3.2  
+gb|HQ847578.1|  Cylindrospermum sp. HA4236-MV2 clone p2 16S ri...  41.0    3.2  
+dbj|AK339040.1|  Lotus japonicus cDNA, clone: LjFL3-037-AE05, HTC  41.0    3.2  
+gb|BT080324.1|  Caligus clemensi clone ccle-evs-508-040 Neuron...  41.0    3.2  
+gb|EF517792.1|  Capsicum frutescens BAC 215H17, complete sequence  41.0    3.2  
+emb|AM461454.2|  Vitis vinifera contig VV78X062356.5, whole ge...  41.0    3.2  
+ref|XM_001391914.1|  Aspergillus niger CBS 513.88 allantoate p...  41.0    3.2  
+emb|AM270147.1|  Aspergillus niger contig An07c0300, genomic c...  41.0    3.2  
+gb|AC169813.2|  Rhesus Macaque BAC CH250-16M3 (Children's Hosp...  41.0    3.2  
+gb|AC146793.7|  Medicago truncatula clone mth2-10p9, complete ...  41.0    3.2  
+gb|AC109641.4|  Homo sapiens BAC clone RP11-763N18 from 4, com...  41.0    3.2  
+gb|AC106048.5|  Homo sapiens BAC clone RP11-497M5 from 2, comp...  41.0    3.2  
+emb|Y13035.1|  Homo sapiens ncx1 gene, exon 1e                     41.0    3.2  
+
+ALIGNMENTS
+>emb|Z98884.11| Human DNA sequence from clone RP3-467L1 on chromosome 1p36.21-36.33, 
+complete sequence
+Length=162727
+
+ Score = 203 bits (224),  Expect = 4e-49
+ Identities = 112/112 (100%), Gaps = 0/112 (0%)
+ Strand=Plus/Plus
+
+Query  1       GGGGATTCCATGAAGAGAAATTGATAGGAATTGACTTTGCCAAATATTTAAAGCCTATTC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  136148  GGGGATTCCATGAAGAGAAATTGATAGGAATTGACTTTGCCAAATATTTAAAGCCTATTC  136207
+
+Query  61      ACTGATTGCCAAATAAATATCATAATTTGGGGTGATCTGTGAGGAATATGTT  112
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  136208  ACTGATTGCCAAATAAATATCATAATTTGGGGTGATCTGTGAGGAATATGTT  136259
+
+
+>ref|XM_006719770.2| PREDICTED: Homo sapiens APC membrane recruitment protein 2 (AMER2), 
+transcript variant X3, mRNA
+Length=10244
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Minus
+
+Query  19    AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+             || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  9584  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  9535
+
+
+>ref|XM_005266280.2| PREDICTED: Homo sapiens APC membrane recruitment protein 2 (AMER2), 
+transcript variant X2, mRNA
+Length=10358
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Minus
+
+Query  19    AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+             || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  9698  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  9649
+
+
+>ref|XM_005266279.2| PREDICTED: Homo sapiens APC membrane recruitment protein 2 (AMER2), 
+transcript variant X1, mRNA
+Length=10412
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Minus
+
+Query  19    AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+             || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  9752  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  9703
+
+
+>ref|XM_009426754.1| PREDICTED: Pan troglodytes APC membrane recruitment protein 2 
+(AMER2), transcript variant X4, mRNA
+Length=10067
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Minus
+
+Query  19    AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+             || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  9401  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  9352
+
+
+>ref|XM_001154833.3| PREDICTED: Pan troglodytes APC membrane recruitment protein 2 
+(AMER2), transcript variant X3, mRNA
+Length=10260
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Minus
+
+Query  19    AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+             || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  9594  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  9545
+
+
+>ref|XM_009426753.1| PREDICTED: Pan troglodytes APC membrane recruitment protein 2 
+(AMER2), transcript variant X2, mRNA
+Length=10362
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Minus
+
+Query  19    AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+             || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  9696  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  9647
+
+
+>ref|XM_009426752.1| PREDICTED: Pan troglodytes APC membrane recruitment protein 2 
+(AMER2), transcript variant X1, mRNA
+Length=10452
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Minus
+
+Query  19    AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+             || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  9786  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  9737
+
+
+>ref|NM_199138.2| Homo sapiens APC membrane recruitment protein 2 (AMER2), transcript 
+variant 2, mRNA
+Length=9953
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Minus
+
+Query  19    AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+             || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  9274  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  9225
+
+
+>ref|NM_152704.3| Homo sapiens APC membrane recruitment protein 2 (AMER2), transcript 
+variant 1, mRNA
+Length=10619
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Minus
+
+Query  19    AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+             || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  9940  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  9891
+
+
+>ref|XM_004054275.1| PREDICTED: Gorilla gorilla gorilla family with sequence similarity 
+123A (FAM123A), mRNA
+Length=10705
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Minus
+
+Query  19     AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+              || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  10039  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  9990
+
+
+>dbj|AK098054.1| Homo sapiens cDNA FLJ40735 fis, clone TKIDN2003366
+Length=2178
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Minus
+
+Query  19    AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+             || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  1521  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  1472
+
+
+>dbj|AK094378.1| Homo sapiens cDNA FLJ37059 fis, clone BRACE2014746
+Length=1785
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Minus
+
+Query  19    AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+             || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  1128  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  1079
+
+
+>gb|BC045677.1| Homo sapiens cDNA clone IMAGE:5299441
+Length=2606
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Minus
+
+Query  19    AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+             || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  1927  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  1878
+
+
+>emb|AL590099.9| Human DNA sequence from clone RP11-458I4 on chromosome 13, complete 
+sequence
+Length=28088
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Minus
+
+Query  19     AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+              || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  25192  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  25143
+
+
+>emb|AL359757.21| Human DNA sequence from clone RP11-165I9 on chromosome 13q12.11-12.3, 
+complete sequence
+Length=187066
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Plus
+
+Query  19      AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+               || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  132685  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  132734
+
+
+>emb|AL832586.1| Homo sapiens mRNA; cDNA DKFZp451I0216 (from clone DKFZp451I0216)
+Length=6024
+
+ Score = 48.2 bits (52),  Expect = 0.022
+ Identities = 41/50 (82%), Gaps = 2/50 (4%)
+ Strand=Plus/Minus
+
+Query  19    AATTGATAGGAATTGACTTTGCCA--AATATTTAAAGCCTATTCACTGAT  66
+             || |||||||||||||||||||||  || ||  ||||| | ||| |||||
+Sbjct  5355  AAATGATAGGAATTGACTTTGCCAACAACATCAAAAGCATTTTCCCTGAT  5306
+
+
+>ref|XM_010246266.1| PREDICTED: Nelumbo nucifera acid phosphatase 1 (LOC104588372), 
+transcript variant X4, mRNA
+Length=1604
+
+ Score = 44.6 bits (48),  Expect = 0.26
+ Identities = 30/34 (88%), Gaps = 0/34 (0%)
+ Strand=Plus/Plus
+
+Query  5    ATTCCATGAAGAGAAATTGATAGGAATTGACTTT  38
+            |||||||||||| || ||||||||||||  ||||
+Sbjct  90   ATTCCATGAAGATAACTTGATAGGAATTATCTTT  123
+
+
+>ref|XM_010246265.1| PREDICTED: Nelumbo nucifera acid phosphatase 1 (LOC104588372), 
+transcript variant X3, mRNA
+Length=1687
+
+ Score = 44.6 bits (48),  Expect = 0.26
+ Identities = 30/34 (88%), Gaps = 0/34 (0%)
+ Strand=Plus/Plus
+
+Query  5    ATTCCATGAAGAGAAATTGATAGGAATTGACTTT  38
+            |||||||||||| || ||||||||||||  ||||
+Sbjct  90   ATTCCATGAAGATAACTTGATAGGAATTATCTTT  123
+
+
+>ref|XM_010246264.1| PREDICTED: Nelumbo nucifera acid phosphatase 1 (LOC104588372), 
+transcript variant X2, mRNA
+Length=1572
+
+ Score = 44.6 bits (48),  Expect = 0.26
+ Identities = 30/34 (88%), Gaps = 0/34 (0%)
+ Strand=Plus/Plus
+
+Query  5    ATTCCATGAAGAGAAATTGATAGGAATTGACTTT  38
+            |||||||||||| || ||||||||||||  ||||
+Sbjct  89   ATTCCATGAAGATAACTTGATAGGAATTATCTTT  122
+
+
+>ref|XM_010246263.1| PREDICTED: Nelumbo nucifera acid phosphatase 1 (LOC104588372), 
+transcript variant X1, mRNA
+Length=1695
+
+ Score = 44.6 bits (48),  Expect = 0.26
+ Identities = 30/34 (88%), Gaps = 0/34 (0%)
+ Strand=Plus/Plus
+
+Query  5    ATTCCATGAAGAGAAATTGATAGGAATTGACTTT  38
+            |||||||||||| || ||||||||||||  ||||
+Sbjct  89   ATTCCATGAAGATAACTTGATAGGAATTATCTTT  122
+
+
+>ref|XM_001450064.1| Paramecium tetraurelia hypothetical protein (GSPATT00017075001) 
+partial mRNA
+Length=1518
+
+ Score = 44.6 bits (48),  Expect = 0.26
+ Identities = 29/32 (91%), Gaps = 0/32 (0%)
+ Strand=Plus/Plus
+
+Query  19   AATTGATAGGAATTGACTTTGCCAAATATTTA  50
+            |||| ||||||||||| ||||||||| |||||
+Sbjct  289  AATTAATAGGAATTGATTTTGCCAAAAATTTA  320
+
+
+>ref|XM_009591153.1| PREDICTED: Nicotiana tomentosiformis F-box protein At5g07610-like 
+(LOC104086811), mRNA
+Length=1333
+
+ Score = 42.8 bits (46),  Expect = 0.92
+ Identities = 28/30 (93%), Gaps = 1/30 (3%)
+ Strand=Plus/Minus
+
+Query  18    AAATTGATAGGAATTGACTTTGCCAAATAT  47
+             ||||| ||||||| ||||||||||||||||
+Sbjct  1094  AAATT-ATAGGAAATGACTTTGCCAAATAT  1066
+
+
+>ref|XM_009618589.1| PREDICTED: Nicotiana tomentosiformis probable WRKY transcription 
+factor 31 (LOC104109328), mRNA
+Length=2149
+
+ Score = 42.8 bits (46),  Expect = 0.92
+ Identities = 26/28 (93%), Gaps = 0/28 (0%)
+ Strand=Plus/Minus
+
+Query  11  TGAAGAGAAATTGATAGGAATTGACTTT  38
+           ||||||||||||||| |||||||| |||
+Sbjct  31  TGAAGAGAAATTGATGGGAATTGATTTT  4
+
+
+>emb|LL573942.1| Diphyllobothrium latum genome assembly D_latum_Geneva ,scaffold 
+DILT_scaffold0003943
+Length=15802
+
+ Score = 42.8 bits (46),  Expect = 0.92
+ Identities = 29/33 (88%), Gaps = 0/33 (0%)
+ Strand=Plus/Plus
+
+Query  64    GATTGCCAAATAAATATCATAATTTGGGGTGAT  96
+             |||||||  |||| ||||| |||||||||||||
+Sbjct  2133  GATTGCCTGATAATTATCAAAATTTGGGGTGAT  2165
+
+
+>gb|HM015285.1| Eucalyptus globulus 4-coumarate 3-hydroxylase gene, complete 
+cds
+Length=3240
+
+ Score = 42.8 bits (46),  Expect = 0.92
+ Identities = 29/33 (88%), Gaps = 0/33 (0%)
+ Strand=Plus/Minus
+
+Query  13    AAGAGAAATTGATAGGAATTGACTTTGCCAAAT  45
+             ||||||| |||  || |||||||||||||||||
+Sbjct  1533  AAGAGAAGTTGGCAGAAATTGACTTTGCCAAAT  1501
+
+
+>gb|AC129886.3| Atelerix albiventris clone LB4-234A16, complete sequence
+Length=176448
+
+ Score = 42.8 bits (46),  Expect = 0.92
+ Identities = 28/31 (90%), Gaps = 0/31 (0%)
+ Strand=Plus/Minus
+
+Query  31      TTGACTTTGCCAAATATTTAAAGCCTATTCA  61
+               ||||||||  ||||||| |||||||||||||
+Sbjct  103524  TTGACTTTATCAAATATATAAAGCCTATTCA  103494
+
+
+>emb|LN713259.1| Cucumis melo genomic chromosome, chr_5
+Length=28337775
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 30/35 (86%), Gaps = 0/35 (0%)
+ Strand=Plus/Minus
+
+Query  59       TCACTGATTGCCAAATAAATATCATAATTTGGGGT  93
+                |||||||||||||||  || ||  |||||||||||
+Sbjct  2850845  TCACTGATTGCCAAAAGAAGATAGTAATTTGGGGT  2850811
+
+
+>emb|LN681842.1| Cucumis melo genomic scaffold, anchoredscaffold00022
+Length=4893539
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 30/35 (86%), Gaps = 0/35 (0%)
+ Strand=Plus/Plus
+
+Query  59       TCACTGATTGCCAAATAAATATCATAATTTGGGGT  93
+                |||||||||||||||  || ||  |||||||||||
+Sbjct  2042695  TCACTGATTGCCAAAAGAAGATAGTAATTTGGGGT  2042729
+
+
+>ref|XM_010654215.1| PREDICTED: Vitis vinifera uncharacterized LOC100261941 (LOC100261941), 
+mRNA
+Length=1596
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  40   CCAAATATTTAAAGCCTATTCACTGAT  66
+            ||||||||||||||||| |||||| ||
+Sbjct  792  CCAAATATTTAAAGCCTCTTCACTAAT  766
+
+
+>ref|XM_010686706.1| PREDICTED: Beta vulgaris subsp. vulgaris uncharacterized LOC104899508 
+(LOC104899508), mRNA
+Length=1676
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  40   CCAAATATTTAAAGCCTATTCACTGAT  66
+            ||| ||||||||||||| |||||||||
+Sbjct  815  CCATATATTTAAAGCCTCTTCACTGAT  789
+
+
+>emb|LM336276.1| Strongylus vulgaris genome assembly S_vulgaris_Kentucky ,scaffold 
+SVUK_scaffold0068136
+Length=735
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 39/50 (78%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  37   TTGCCAAATATTTAAAGCCTATTCACTGATTGCCAAATAAATATCATAAT  86
+            |||| ||| ||  |||||||||   |||| |  ||||||||||| |||||
+Sbjct  228  TTGCAAAAAATAAAAAGCCTATCTTCTGAATTTCAAATAAATATGATAAT  179
+
+
+>emb|LN590712.1| Cyprinus carpio genome assembly common carp genome ,scaffold 
+LG2
+Length=18998363
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 24/25 (96%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  63        TGATTGCCAAATAAATATCATAATT  87
+                 ||||||||||| |||||||||||||
+Sbjct  15741163  TGATTGCCAAAGAAATATCATAATT  15741139
+
+
+>ref|XM_006430689.1| Citrus clementina hypothetical protein (CICLE_v10010987mg) mRNA, 
+complete cds
+Length=3122
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 27/29 (93%), Gaps = 1/29 (3%)
+ Strand=Plus/Plus
+
+Query  12    GAAGAGAAATTGATAGGAATTGACTTTGC  40
+             ||||| ||||||| |||||||||||||||
+Sbjct  1918  GAAGAAAAATTGA-AGGAATTGACTTTGC  1945
+
+
+>ref|XM_002303004.2| Populus trichocarpa hypothetical protein (POPTR_0002s24430g) 
+mRNA, complete cds
+Length=1545
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  40   CCAAATATTTAAAGCCTATTCACTGAT  66
+            ||| ||||||||||||| |||||||||
+Sbjct  650  CCATATATTTAAAGCCTCTTCACTGAT  624
+
+
+>ref|XM_004514226.1| PREDICTED: Cicer arietinum uncharacterized LOC101511308 (LOC101511308), 
+transcript variant X3, mRNA
+Length=1604
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  40   CCAAATATTTAAAGCCTATTCACTGAT  66
+            ||||||||||||||||| |||||| ||
+Sbjct  805  CCAAATATTTAAAGCCTCTTCACTAAT  779
+
+
+>ref|XM_004514225.1| PREDICTED: Cicer arietinum uncharacterized LOC101511308 (LOC101511308), 
+transcript variant X2, mRNA
+Length=1720
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  40   CCAAATATTTAAAGCCTATTCACTGAT  66
+            ||||||||||||||||| |||||| ||
+Sbjct  805  CCAAATATTTAAAGCCTCTTCACTAAT  779
+
+
+>ref|XM_004514224.1| PREDICTED: Cicer arietinum uncharacterized LOC101511308 (LOC101511308), 
+transcript variant X1, mRNA
+Length=1717
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  40   CCAAATATTTAAAGCCTATTCACTGAT  66
+            ||||||||||||||||| |||||| ||
+Sbjct  805  CCAAATATTTAAAGCCTCTTCACTAAT  779
+
+
+>ref|XM_003622864.1| Medicago truncatula hypothetical protein (MTR_7g057180) mRNA, 
+complete cds
+Length=1236
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  40   CCAAATATTTAAAGCCTATTCACTGAT  66
+            ||||||||||||||| | |||||||||
+Sbjct  696  CCAAATATTTAAAGCTTCTTCACTGAT  670
+
+
+>gb|HQ847578.1| Cylindrospermum sp. HA4236-MV2 clone p2 16S ribosomal RNA gene, 
+partial sequence; 16S-23S ribosomal RNA intergenic spacer, 
+complete sequence; and 23S ribosomal RNA gene, partial sequence
+Length=1496
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 22/22 (100%), Gaps = 0/22 (0%)
+ Strand=Plus/Minus
+
+Query  28    GAATTGACTTTGCCAAATATTT  49
+             ||||||||||||||||||||||
+Sbjct  1314  GAATTGACTTTGCCAAATATTT  1293
+
+
+>dbj|AK339040.1| Lotus japonicus cDNA, clone: LjFL3-037-AE05, HTC
+Length=1993
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  40   CCAAATATTTAAAGCCTATTCACTGAT  66
+            ||||||||||||||||| |||||| ||
+Sbjct  805  CCAAATATTTAAAGCCTCTTCACTAAT  779
+
+
+>gb|BT080324.1| Caligus clemensi clone ccle-evs-508-040 Neuronal calcium sensor 
+2 putative mRNA, complete cds
+Length=727
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  86   TTTGGGGTGATCTGTGAGGAATATGTT  112
+            |||||||||||||||||||||  ||||
+Sbjct  180  TTTGGGGTGATCTGTGAGGAAGTTGTT  154
+
+
+>gb|EF517792.1| Capsicum frutescens BAC 215H17, complete sequence
+Length=122080
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  77     ATATCATAATTTGGGGTGATCTGTGAG  103
+              |||||||||||||| ||||| ||||||
+Sbjct  21596  ATATCATAATTTGGTGTGATGTGTGAG  21570
+
+
+>emb|AM461454.2| Vitis vinifera contig VV78X062356.5, whole genome shotgun sequence
+Length=34220
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  40    CCAAATATTTAAAGCCTATTCACTGAT  66
+             ||||||||||||||||| |||||| ||
+Sbjct  5533  CCAAATATTTAAAGCCTCTTCACTAAT  5507
+
+
+>ref|XM_001391914.1| Aspergillus niger CBS 513.88 allantoate permease, mRNA
+Length=1521
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Plus
+
+Query  8    CCATGAAGAGAAATTGATAGGAATTGA  34
+            |||||||||||||||||| | ||||||
+Sbjct  762  CCATGAAGAGAAATTGATGGTAATTGA  788
+
+
+>emb|AM270147.1| Aspergillus niger contig An07c0300, genomic contig
+Length=44109
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  8      CCATGAAGAGAAATTGATAGGAATTGA  34
+              |||||||||||||||||| | ||||||
+Sbjct  12895  CCATGAAGAGAAATTGATGGTAATTGA  12869
+
+
+>gb|AC169813.2| Rhesus Macaque BAC CH250-16M3 (Children's Hospital Oakland Research 
+Institute Rhesus macaque Adult Male BAC Library) complete 
+sequence
+Length=168861
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 28/32 (88%), Gaps = 0/32 (0%)
+ Strand=Plus/Plus
+
+Query  29      AATTGACTTTGCCAAATATTTAAAGCCTATTC  60
+               |||| |||||| || ||||||||||| |||||
+Sbjct  141098  AATTAACTTTGTCATATATTTAAAGCATATTC  141129
+
+
+>gb|AC146793.7| Medicago truncatula clone mth2-10p9, complete sequence
+Length=115521
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  40     CCAAATATTTAAAGCCTATTCACTGAT  66
+              ||||||||||||||| | |||||||||
+Sbjct  67197  CCAAATATTTAAAGCTTCTTCACTGAT  67171
+
+
+>gb|AC109641.4| Homo sapiens BAC clone RP11-763N18 from 4, complete sequence
+Length=81407
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 38/46 (83%), Gaps = 3/46 (7%)
+ Strand=Plus/Plus
+
+Query  13     AAGAGAAATTGATAGGAATTG--ACTTTGCCAAATATTTAAAGCCT  56
+              || ||||||||||| ||||||  ||||||| |||||  || |||||
+Sbjct  60336  AATAGAAATTGATATGAATTGGAACTTTGCTAAATA-ATATAGCCT  60380
+
+
+>gb|AC106048.5| Homo sapiens BAC clone RP11-497M5 from 2, complete sequence
+Length=8594
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 30/35 (86%), Gaps = 0/35 (0%)
+ Strand=Plus/Plus
+
+Query  56    TATTCACTGATTGCCAAATAAATATCATAATTTGG  90
+             ||| |||||| |||   ||||||||||||||||||
+Sbjct  3531  TATACACTGAATGCTCCATAAATATCATAATTTGG  3565
+
+
+>emb|Y13035.1| Homo sapiens ncx1 gene, exon 1e
+Length=830
+
+ Score = 41.0 bits (44),  Expect = 3.2
+ Identities = 30/35 (86%), Gaps = 0/35 (0%)
+ Strand=Plus/Minus
+
+Query  56  TATTCACTGATTGCCAAATAAATATCATAATTTGG  90
+           ||| |||||| |||   ||||||||||||||||||
+Sbjct  67  TATACACTGAATGCTCCATAAATATCATAATTTGG  33
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Mar 21, 2015  12:43 AM
+  Number of letters in database: 88,734,905,902
+  Number of sequences in database:  28,990,570
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 28990570
+Number of Hits to DB: 5551904
+Number of extensions: 9222
+Number of successful extensions: 9222
+Number of sequences better than 10: 4
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 9222
+Number of HSP's successfully gapped: 4
+Length of query: 112
+Length of database: 88734905902
+Length adjustment: 34
+Effective length of query: 78
+Effective length of database: 87749226522
+Effective search space: 6844439668716
+Effective search space used: 6844439668716
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+S2: 43 (40.1 bits)
+
+
+
+

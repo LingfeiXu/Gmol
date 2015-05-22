@@ -43,7 +43,7 @@
 	<classpathentry kind="lib" path="lib/saxon.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.6.1.jar"/>
-	<classpathentry kind="lib" path="lib/vecmath1.2-1.14.jar"/>
+	<classpathentry kind="lib" path="lib/vecmath1.2-1.14.jar" sourcepath="lib/vecmath1.2-1.14.jar"/>
 	<classpathentry kind="lib" path="lib/biojava3-ws-3.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
