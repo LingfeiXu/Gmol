@@ -1,2 +1,0 @@
-new features:
-Allow the user to color the structure by sequence number using right click
