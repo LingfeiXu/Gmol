@@ -1,3 +1,0 @@
-Fixed Bug:
-Fixed scale down at the lowest or scale up at the highest level software stuck bug. 
-Add the NCP lable at nucleosome level.
