@@ -1,0 +1,3 @@
+GMOL:A tool for 3D genome structure visualization
+sourceforge page:http://sourceforge.net/projects/gmol/
+Bug Fixed: Choose  database option failed to reset itself after a sequence search
